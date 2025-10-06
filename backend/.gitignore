@@ -6,3 +6,6 @@ __pycache__/
 
 # SECRETS - Never commit this file!
 service-account.json
+
+# Environment variables
+.env
